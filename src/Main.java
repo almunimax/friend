@@ -8,5 +8,11 @@ public class Main {
         System.out.println(friend);
         friend = friend / 7;
         System.out.println(friend);
+        // задание 5
+        System.out.println("задание 5");
+        var frog = 3.5;
+        frog = frog * 10;
+        System.out.println(frog);
+
     }
 }
