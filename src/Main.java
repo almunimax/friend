@@ -15,6 +15,8 @@ public class Main {
         System.out.println(frog);
         frog = frog / 3.5;
         System.out.println(frog);
+        frog = frog + 4;
+        System.out.println(frog);
 
     }
 }
