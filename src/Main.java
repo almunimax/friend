@@ -13,6 +13,8 @@ public class Main {
         var frog = 3.5;
         frog = frog * 10;
         System.out.println(frog);
+        frog = frog / 3.5;
+        System.out.println(frog);
 
     }
 }
